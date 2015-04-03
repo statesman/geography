@@ -1,0 +1,58 @@
+Facility,StreetAddress,City,State,Latitude,Longitude,GeocodeQualityType
+Austin VA Clinic,7901 Metropolis Drive,Austin,TX,30.205711,-97.690721,Manual
+El Paso VA,5001 North Piedras Street,El Paso,TX,31.820680,-106.461547,AddressRangeInterpolation
+Harlingen VA Clinic,2106 Treasure Hills Boulevard,Harlingen,TX,26.174853,-97.666450,AddressRangeInterpolation
+El Paso Eastside VA Clinic,2400 Trawood Drive,El Paso,TX,31.765034,-106.315879,AddressRangeInterpolation
+Tomball VA Clinic,1200 West Main Street,Tomball,TX,30.090933,-95.629240,AddressRangeInterpolation
+McAllen VA Clinic,901 East Hackberry Avenue,McAllen,TX,26.208501,-98.210516,AddressRangeInterpolation
+Denton VA Clinic,2223 Colorado Boulevard,Denton,TX,33.193701,-97.105452,Manual
+Victoria VA Clinic,1908 North Laurent Street,Victoria,TX,28.810949,-96.991188,AddressRangeInterpolation
+Central Texas VA-Waco,4800 Memorial Drive,Waco,TX,31.511374,-97.162773,AddressRangeInterpolation
+North Central Federal VA Clinic,17440 Henderson Pass,San Antonio,TX,29.603685,-98.461255,Manual
+South Bexar County VA Clinic,4610 East Southcross Boulevard,San Antonio,TX,29.374116,-98.402011,Manual
+Texas Valley Coastal Bend VA-Harlingen,2601 Veterans Drive,Harlingen,TX,26.171924,-97.666474,Manual
+Permian Basin VA Clinic,8050 East Highway 191,Odessa,TX,31.920129,-102.290702,AddressRangeInterpolation
+Tyler VA Clinic,3414 Golden Road,Tyler,TX,32.313289,-95.277554,AddressRangeInterpolation
+Corpus Christi VA Clinic,5283 Old Brownsville Road,Corpus Christi,TX,27.758547,-97.456009,AddressRangeInterpolation
+Michael E. DeBakey VA,2002 Holcombe Boulevard,Houston,TX,29.705845,-95.390143,AddressRangeInterpolation
+Frank M. Tejeda VA Clinic,5788 Eckert Road,San Antonio,TX,29.515924,-98.596975,Manual
+South Texas VA-Audie L. Murphy,7400 Merton Minter Boulevard,San Antonio,TX,29.505971,-98.580626,Manual
+Central Texas VA-Olin E. Teague,1901 Veterans Memorial Drive,Temple,TX,31.079641,-97.348515,AddressRangeInterpolation
+Cedar Park VA Clinic,701 East Whitestone Boulevard,Cedar Park,TX,30.524180,-97.820006,AddressRangeInterpolation
+Bryan VA Clinic,1651 Rock Prairie Road,College Station,TX,30.583378,-96.289717,Manual
+Katy VA Clinic,750 Westgreen Boulevard,Katy,TX,29.776810,-95.736378,Manual
+San Angelo VA Clinic,2018 Pulliam Street,San Angelo,TX,31.470821,-100.405106,Manual
+Sherman VA Clinic,3811 US 75 North,Sherman,TX,33.677640,-96.605875,Manual
+Lake Jackson VA Clinic,208 South Oak Drive,Lake Jackson,TX,29.031689,-95.457095,Manual
+North Texas VA-Sam Rayburn,1201 East 9th Street,Bonham,TX,33.581617,-96.167377,Manual
+Charles Wilson VA Clinic,2206 North John Redditt Drive,Lufkin,TX,31.353891,-94.764834,AddressRangeInterpolation
+Granbury VA Clinic,601 Fall Creek Highway,Granbury,TX,32.468946,-97.696078,AddressRangeInterpolation
+Conroe VA Clinic,800 Riverwood Court,Conroe,TX,30.284643,-95.466147,AddressRangeInterpolation
+Thomas E. Creek VA,6010 Amarillo Boulevard West,Amarillo,TX,35.204689,-101.906461,ExactParcelCentroidPoint
+South Texas VA-Kerrville,3600 Memorial Boulevard,Kerrville,TX,30.015966,-99.119003,AddressRangeInterpolation
+Beaumont VA Clinic,3420 Veterans Circle,Beaumont,TX,30.077274,-94.139433,Manual
+North Texas VA-Dallas,4500 South Lancaster Road,Dallas,TX,32.694281,-96.793238,AddressRangeInterpolation
+Galveston County VA Clinic,3828 Avenue North,Galveston,TX,29.291302,-94.808666,Manual
+Dalhart VA Clinic,325 Denver Avenue,Dalhart,TX,36.063050,-102.521823,AddressRangeInterpolation
+Richmond VA Clinic,22001 Southwest Freeway,Richmond,TX,29.555558,-95.712785,Manual
+Wichita Falls VA Clinic,1800 7th Street,Wichita Falls,TX,33.906727,-98.505901,AddressRangeInterpolation
+Longview VA Clinic,1005 North Eastman Road,Longview,TX,32.513377,-94.711777,ExactParcelCentroidPoint
+West Texas VA-George H. O'Brien Jr.,300 Veterans Boulevard,Big Spring,TX,32.230718,-101.470736,AddressRangeInterpolation
+Fort Worth VA Clinic,2201 Southeast Loop 820,Fort Worth,TX,32.669979,-97.299859,Manual
+Greenville VA Clinic,4006 Wellington Road,Greenville,TX,33.127993,-96.123248,ExactParcelCentroidPoint
+Fort Stockton VA Clinic,2071 North Main Street,Fort Stockton,TX,30.888880,-102.879155,Manual
+Lubbock VA Clinic,6104 Avenue Q South Drive,Lubbock,TX,33.537621,-101.847104,Manual
+Abilene VA Clinic,3850 Ridgemont Drive,Abilene,TX,32.404492,-99.767172,ExactParcelCentroidPoint
+LaGrange VA Clinic,890 East Travis Street,LaGrange,TX,29.909633,-96.868590,AddressRangeInterpolation
+New Braunfels VA Clinic,189 East Austin Street,New Braunfels,TX,29.716506,-98.123352,AddressRangeInterpolation
+Bridgeport VA Clinic,806 Woodrow Wilson Ray Circle,Bridgeport,TX,33.222067,-97.761920,AddressRangeInterpolation
+San Antonio VA Clinic,4318 Woodcock Drive,San Antonio,TX,29.486463,-98.570421,Manual
+Brownwood VA Clinic,2600 Memorial Drive,Brownwood,TX,31.679205,-98.991120,Manual
+Palestine VA Clinic,2000 South Loop 256,Palestine,TX,31.733934,-95.609005,Manual
+Laredo VA Clinic,4602 North Bartlett Avenue,Laredo,TX,27.537671,-99.474270,AddressRangeInterpolation
+Beeville VA Clinic,302 South Hillside Drive,Beeville,TX,28.406275,-97.732030,AddressRangeInterpolation
+Childress VA Clinic,1001 Highway 38 North,Childress,TX,34.439372,-100.225763,Manual
+Seguin VA Clinic,526 East Court Street,Seguin,TX,29.569035,-97.960837,AddressRangeInterpolation
+,,,,,,
+                        ,,,,,,
+                        ,,,,,,
